@@ -1,0 +1,4 @@
+[
+  "function deploy(address,address,address,address) returns (address)",
+  "function parameters() view returns (address, address, address, address)"
+]
